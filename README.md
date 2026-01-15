@@ -6,7 +6,7 @@
 ![No%20Resale](https://img.shields.io/badge/resale-not%20allowed-red)
 ![Scam%20Warning](https://img.shields.io/badge/paid%20access-scam-red)
 
-## Disclaimer & Usage Notice
+# Disclaimer & Usage Notice
 
 This repository and all included scripts are **100% free to use**.
 
@@ -21,7 +21,7 @@ No one is authorized to sell access to them.
 All scripts are provided **“as is”**, without warranty of any kind.  
 Always review, test, and validate in a safe environment before running in production or MCC accounts.
 
-## Connect
+# Connect
 
 If you find this useful, feel free to connect or reach out:
 
@@ -31,7 +31,7 @@ If you find this useful, feel free to connect or reach out:
 Feedback, improvements, and pull requests are welcome.  
 ⭐ If this helped you, consider starring the repository.
 
-## Why Is This Free?
+# Why Is This Free?
 
 These scripts were originally built for **personal use**.  
 They solve small, recurring problems I encountered while working with Google Ads accounts, and they’re intentionally:
